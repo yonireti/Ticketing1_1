@@ -8,3 +8,4 @@ showing the head changes
 adding a new line of text from bugfix master
 It is a good day
 Bright and sunny sunday 
+We are adding a new line and this is a great learning for me 
