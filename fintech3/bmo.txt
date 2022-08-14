@@ -5,3 +5,4 @@ I would always put in my best in whatever I do
 We are adding a new line to this file
 I want to do more certifications  
 showing the head changes
+adding a new line of text from bugfix master
